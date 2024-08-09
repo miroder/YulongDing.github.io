@@ -10,3 +10,9 @@ Gemfile.lock
 # Ingore files created by npm
 node_modules
 package-lock.json
+/.idea/.gitignore
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/vcs.xml
+/.idea/YulongDing.github.io.iml
