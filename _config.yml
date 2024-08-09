@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Yulong Ding"
   pronouns         : # example: "she/her"  
-  bio              : ""
+  bio              : # example: "she/her"
   location         : "Shenzhen, China"
   employer         : "Southern University of Science and Technology"
   uri              : # URL
@@ -36,6 +36,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-7159-5107"
   semantic         : # URL
+  pubmed           : # URL
   researchgate     : # URL
 
   # Repositories and software development
@@ -47,6 +48,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
